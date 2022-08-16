@@ -1,4 +1,4 @@
-package me.athallah.tablelayout;
+package me.athallah.tableframelayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 
