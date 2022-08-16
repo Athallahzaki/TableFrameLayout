@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("me.athallah.tablelayout", appContext.getPackageName());
+        assertEquals("me.athallah.tableframelayout", appContext.getPackageName());
     }
 }
